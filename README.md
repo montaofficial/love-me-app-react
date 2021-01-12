@@ -1,6 +1,6 @@
 # SIMP React App
 
-## This project is just for fun
+This project is just for fun
 
 ## React Scripts
 
